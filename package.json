@@ -1,0 +1,23 @@
+{
+    "name": "ng-print",
+    "version": "1.0.1",
+    "description": "Directive for print content of any HTML element",
+    "author": "Krzysztof Doll",
+    "license": "GPL-3.0",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/burasuk/ng-print.git"
+    },
+    "keywords": [
+        "print",
+        "angular",
+        "library",
+        "ng-print",
+        "directive",
+        "angular-print"
+    ],
+    "peerDependencies": {
+        "@angular/common": "^8.0.3",
+        "@angular/core": "^8.0.3"
+    }
+}
