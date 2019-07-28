@@ -11,7 +11,7 @@ Directive for printing any HTML element. For Angular 2+.
 2. Import into main module
 
 ```ts
-import {NgxPrintModule} from 'ng-print';
+import {NgPrintModule} from 'ng-print';
 
 @NgModule({
 
